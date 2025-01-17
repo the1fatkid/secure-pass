@@ -1,4 +1,4 @@
-# Secure-Pass 🔒🔑
+# SecurePass 🔒🔑
 
 Secure-Pass is a web application that generates **two strong passwords** to help you maintain better security for your online accounts. It offers a variety of options to customize the generated passwords, ensuring they meet your needs while staying secure.
 
